@@ -5,6 +5,8 @@
 // @description  dodaje funkcje krawężnika do mirko
 // @author       @ZasilaczKomputerowy
 // @match        http://www.wykop.pl/mikroblog/*
+// @match        http://www.wykop.pl/link/*
+// @match        http://www.wykop.pl/tag/*
 // @grant        none
 // ==/UserScript==
 
